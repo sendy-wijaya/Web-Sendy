@@ -1,0 +1,13 @@
+{
+  "name": "website-sendy",
+  "version": "1.0.0",
+  "description": "Website interaktif kecil bertema lucu & romantis, dengan pencatatan pengunjung via Supabase.",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {}
+}
